@@ -1,2 +1,4 @@
 # EP1
- Exercício programa (EP) desenvolvido para um trabalho da disciplina Mac2166 (Introdução a Computação) da Escola Politécnica
+ Exercício programa (EP) desenvolvido para um trabalho da disciplina MAC2166 (Introdução a Computação) da Escola Politécnica da Universidade de São Paulo.
+ 
+ O exercício consistia na elaboração de um programa onde fosse possivel verificar se um número pode ser escrito como a soma de quadrados de quatro números primos consecutivos ou não. O programa terá dois modos de operação. No primeiro modo o programa receberá do usuário cinco números naturais n1, n2, n3, n4 e n e retornará a informação de se n pode ou não ser escrito como a soma dos quadrados de n1, n2, n3 e n4. No segundo modo o programa receberá do usuário um único número natural n e retornará os quatro primos consecutivos cuja soma dos quadrados seja igual a n ou a informação de que não é possível representar n como a soma dos quadrados de quatro primos consecutivos.
